@@ -1,0 +1,5 @@
+deployments:
+  MyApp:
+    filename:
+      ./docker-compose.yml
+    port_forwarding: 80:80
